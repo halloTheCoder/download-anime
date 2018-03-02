@@ -1,6 +1,6 @@
 # download-anime
-Downloading anime from 9anime using selenium and python
-Just some code to make watching anime fun by just downloading the specified anime
+Downloading anime from 9anime using selenium and python.
+Just some code to make watching anime fun by just downloading the specified anime.
 Code is wriiten in very unpleasing manner and requires some modification.
 Include only **dbs**,**op**,**boruto**.
 To include more anime only require to update the dictionary.
